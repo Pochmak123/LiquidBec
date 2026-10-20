@@ -1,0 +1,109 @@
+[
+  {
+    "name": "Plintus Visuals",
+    "preview": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/plintus.png",
+    "logo": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/plintus_logo.png",
+    "versions": [
+      {
+        "visualVersion": "1.2.1",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/Pochmak123/LiquidBec/releases/download/visuals-v1/Plintus.Visuals.1.2.1-FT-1.21.4.jar"
+      }
+    ]
+  },
+  {
+    "name": "Phantom Visuals",
+    "preview": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/phantom.png",
+    "logo": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/phantom_logo.png",
+    "versions": [
+      {
+        "visualVersion": "3.2",
+        "minecraftVersion": "1.16.5",
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/Pochmak123/LiquidBec/releases/download/visuals-v1/Phantom-v3.2-1.16.5.jar"
+      },
+      {
+        "visualVersion": "3.2",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/Pochmak123/LiquidBec/releases/download/visuals-v1/Phantom-v3.2-1.21.4.jar"
+      },
+      {
+        "visualVersion": "4.0.5",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/Pochmak123/LiquidBec/releases/download/visuals-v1/phantom-4.0.5-1.21.4.jar"
+      },
+      {
+        "visualVersion": "4.0.6",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/Pochmak123/LiquidBec/releases/download/visuals-v1/phantom-4.0.6-1.21.4.jar"
+      },
+      {
+        "visualVersion": "4.0.7",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/Pochmak123/LiquidBec/releases/download/visuals-v1/phantom-4.0.7-1.21.4.jar"
+      },
+      {
+        "visualVersion": "5.0",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/Pochmak123/LiquidBec/releases/download/visuals-v1/PhantomVisuals-5.0-1.21.4.jar"
+      }
+    ]
+  },
+  {
+    "name": "Liquid Visuals Alpha",
+    "preview": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/liquid.png",
+    "logo": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/liquid_logo.png",
+    "versions": [
+      {
+        "visualVersion": "1.0.0",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/Pochmak123/LiquidBec/releases/download/visuals-v1/LiquidVisual-1.21.4.jar"
+      }
+    ]
+  },
+  {
+    "name": "Mytheria 2.1",
+    "preview": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/mytheria.png",
+    "logo": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/mytheia_logo.png",
+    "versions": [
+      {
+        "visualVersion": "2.1",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/Pochmak123/LiquidBec/releases/download/visuals-v1/Mytheria-2.1-1.21.4.jar"
+      },
+      {
+        "visualVersion": "2.1.1",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/Pochmak123/LiquidBec/releases/download/visuals-v1/Mytheria-2.1.1-1.21.4.jar"
+      },
+      {
+        "visualVersion": "2.1.2",
+        "minecraftVersion": "1.21.11",
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/Pochmak123/LiquidBec/releases/download/visuals-v1/Mytheria-2.1.2-1.21.11.jar"
+      }
+    ]
+  },
+  {
+    "name": "Enough Visuals",
+    "preview": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/enough.png",
+    "logo": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/enough_logo.png",
+    "versions": [
+      {
+        "visualVersion": "2.6",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/Pochmak123/LiquidBec/releases/download/visuals-v1/enoughvisuals-2.6.jar"
+      }
+    ]
+  }
+]
