@@ -1,7 +1,6 @@
 [
   {
     "name": "Plintus Visuals",
-    "preview": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/plintus.png",
     "logo": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/plintus_logo.png",
     "versions": [
       {
@@ -10,11 +9,11 @@
         "loader": "fabric",
         "downloadUrl": "https://github.com/Pochmak123/LiquidBec/releases/download/visuals-v1/Plintus.Visuals.1.2.1-FT-1.21.4.jar"
       }
-    ]
+    ],
+    "preview": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/plintus.png"
   },
   {
     "name": "Phantom Visuals",
-    "preview": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/phantom.png",
     "logo": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/phantom_logo.png",
     "versions": [
       {
@@ -52,12 +51,24 @@
         "minecraftVersion": "1.21.4",
         "loader": "fabric",
         "downloadUrl": "https://github.com/Pochmak123/LiquidBec/releases/download/visuals-v1/PhantomVisuals-5.0-1.21.4.jar"
+      },
+      {
+        "visualVersion": "5.1",
+        "minecraftVersion": "1.21.4",
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/Pochmak123/LiquidBec/releases/download/visuals-v1/Phantom-5.1-1.21.4.jar"
+      },
+      {
+        "visualVersion": "5.1",
+        "minecraftVersion": "1.21.11",
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/Pochmak123/LiquidBec/releases/download/visuals-v1/Phantom-5.1-1.21.11.jar"
       }
-    ]
+    ],
+    "preview": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/phantom.png"
   },
   {
     "name": "Liquid Visuals Alpha",
-    "preview": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/liquid.png",
     "logo": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/liquid_logo.png",
     "versions": [
       {
@@ -70,7 +81,6 @@
   },
   {
     "name": "Mytheria 2.1",
-    "preview": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/mytheria.png",
     "logo": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/mytheia_logo.png",
     "versions": [
       {
@@ -90,12 +100,17 @@
         "minecraftVersion": "1.21.11",
         "loader": "fabric",
         "downloadUrl": "https://github.com/Pochmak123/LiquidBec/releases/download/visuals-v1/Mytheria-2.1.2-1.21.11.jar"
+      },
+      {
+        "visualVersion": "2.1.3",
+        "minecraftVersion": "1.21.11",
+        "loader": "fabric",
+        "downloadUrl": "https://github.com/Pochmak123/LiquidBec/releases/download/visuals-v1/Mytheria-2.1.3-1.21.11.jar"
       }
     ]
   },
   {
     "name": "Enough Visuals",
-    "preview": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/enough.png",
     "logo": "https://raw.githubusercontent.com/Pochmak123/LiquidBec/main/enough_logo.png",
     "versions": [
       {
