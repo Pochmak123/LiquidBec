@@ -1,4 +1,7 @@
 {
-  "version": "0.2.1",
-  "url": "https://github.com/Pochmak123/LiquidBec/releases/download/v0.2.1/LiquidLauncher.msi"
+  "version": "0.3.0",
+  "url": "https://github.com/Pochmak123/LiquidBec/releases/download/v0.3.0/LiquidLauncher-Setup-0.3.0.exe",
+  "sha256": "961e9469c227aff7965d2454a879a7ba3bae122a1730d2024e58e1ada1470099",
+  "kind": "installer",
+  "notes": "Version 0.3.0: новый установщик Inno Setup — установка без прав администратора в %LOCALAPPDATA%\\Programs, автоматическое удаление старых MSI-версий, обновление через встроенный апдейтер."
 }
